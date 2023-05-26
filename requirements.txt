@@ -1,0 +1,17 @@
+requests
+torch
+Pillow
+typing
+torchvision
+opencv-python
+numpy
+loguru
+uvicorn
+fastapi
+starlette
+pydantic
+click
+tqdm
+setuptools
+aiofiles
+python-multipart
